@@ -1,0 +1,30 @@
+# Core Python Libraries
+numpy>=1.21.0
+pandas>=1.3.0
+xarray>=2023.3.0
+netCDF4>=1.5.0
+
+# Data Visualization Libraries
+matplotlib>=3.4.0
+cartopy>=0.20.0
+seaborn>=0.11.0
+
+# Interactive & UI Libraries
+streamlit>=1.10.0
+streamlit_ace>=0.1.1
+altair>=4.2.0
+
+# Scientific & Climate Libraries
+scipy>=1.7.0
+cftime>=1.5.1
+h5netcdf>=1.0.0
+
+# Optional for Performance Enhancements
+dask>=2022.4.0
+bottleneck>=1.3.2
+numba>=0.55.0
+
+# Dependency Handling
+pip>=21.0.0
+setuptools>=57.0.0
+wheel>=0.36.0
